@@ -4,8 +4,7 @@ This website is meant to be the home page for Horiseon Social Solution Services,
 
 ## Built Using
 
-HTML
-CSS
+HTML and CSS
 
 ## Description
 
