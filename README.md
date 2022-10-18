@@ -12,7 +12,7 @@ This home page presents users with the social solution sevices Horiseon can offe
 
 ## Website
 
-https://luksvrd.github.io/HW-01/
+(https://luksvrd.github.io/HW-01-Horiseon/)
 
 ![Horiseon Webpage Screenshot](https://github.com/luksvrd/HW-01/blob/master/assets/images/Horiseon%20Screen%20Shot.png)
 
